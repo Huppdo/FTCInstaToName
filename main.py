@@ -41,4 +41,4 @@ def scrape_all_teams():
             print('the len of data is ',len(data))
 
 if __name__ == '__main__':
-    scrape_all_teams()
+    scrape_all_teams() #this is set up just for testing the scraping
