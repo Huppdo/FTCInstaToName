@@ -5,8 +5,8 @@ from re import sub
 allTeams = []
 bad_words = ['robotics', 'robots','bots','robotic','bot','robot']
 PARAMS = {'Content-Type':'application/json',
-            'X-TOA-Key':'bf16312421adc97f496c678500a6c3a95ede30a0315ceced072f634861072e2d',
-            'X-Application-Origin':'Atom'}
+            'X-TOA-Key':'',
+            'X-Application-Origin':'Instagram To Team Accts'}
 
 debug = True
 
